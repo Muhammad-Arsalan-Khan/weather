@@ -34,5 +34,4 @@ A stylish weather app made with **React + OpenWeatherMap API**, packed with full
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/your-username/weather-app.git
-cd weather-app
+https://github.com/Muhammad-Arsalan-Khan/weather.git
